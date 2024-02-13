@@ -1,0 +1,16 @@
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\bin\Debug\net8.0\Domain.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\obj\Debug\net8.0\Persistence.csproj.CopyComplete
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\jradman\Projects\CarRent\CarRentWebApp\Persistence\obj\Debug\net8.0\ref\Persistence.dll

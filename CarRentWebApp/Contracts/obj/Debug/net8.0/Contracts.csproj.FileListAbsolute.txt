@@ -1,0 +1,12 @@
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\bin\Debug\net8.0\Contracts.deps.json
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\bin\Debug\net8.0\Contracts.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\bin\Debug\net8.0\Contracts.pdb
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\obj\Debug\net8.0\Contracts.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\obj\Debug\net8.0\Contracts.pdb
+D:\jradman\Projects\CarRent\CarRentWebApp\Contracts\obj\Debug\net8.0\ref\Contracts.dll

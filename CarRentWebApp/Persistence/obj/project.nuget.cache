@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iod9BbYc9dkodJQN/dBnfUovrLc5m5GgjhjIfoV06oRIJ37r1o+ZJDlCeUJYj7QbjO8/AFC+T76Jkrjkis4m4w==",
+  "success": true,
+  "projectFilePath": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jradman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

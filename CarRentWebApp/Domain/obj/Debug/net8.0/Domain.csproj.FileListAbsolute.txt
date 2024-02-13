@@ -1,0 +1,12 @@
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\bin\Debug\net8.0\Domain.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\bin\Debug\net8.0\Domain.pdb
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\Domain.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\Domain.pdb
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\ref\Domain.dll

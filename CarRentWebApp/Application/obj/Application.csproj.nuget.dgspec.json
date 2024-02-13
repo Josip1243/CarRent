@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Application\\Application.csproj": {}
+  },
+  "projects": {
+    "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\jradman\\.nuget\\packages\\",
+        "outputPath": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jradman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "D:\\PROJECTS\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.fina.hr/artifactory/api/nuget/v3/nuget-local": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\jradman\\.nuget\\packages\\",
+        "outputPath": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jradman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "D:\\PROJECTS\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.fina.hr/artifactory/api/nuget/v3/nuget-local": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
