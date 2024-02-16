@@ -1,5 +1,4 @@
-﻿using Application.Services.Authentication;
-using FluentValidation;
+﻿using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Application
@@ -13,8 +12,6 @@ namespace Application
             services.AddMediatR(configuration =>
                 configuration.RegisterServicesFromAssembly(assembly));
             services.AddValidatorsFromAssembly(assembly);
-
-            services.AddScoped<IAuthenticationService, AuthenticationService>();
 
             return services;
         }

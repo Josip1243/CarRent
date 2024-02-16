@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Assl0lTV4Gvs1pt5FBY+NXKRbsitqpOooKNoacwTiUY2Uq7oYp3O1k020Za94B8PtyLZMHIn2mZav0gdFns7/A==",
+  "dgSpecHash": "gTW2wmreQV5S6IOv/iff95GY/Jez8W0YjXO62ue52RuodMXNYSc8Chx2QIOz09MR94ostWgWF+4NuXLbZEv5Rg==",
   "success": true,
   "projectFilePath": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jradman\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
     "C:\\Users\\jradman\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\jradman\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\jradman\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",

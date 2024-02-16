@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "akrrf0jfskSg3IxnQx8wYMYVBsKdb66vtzx7+0K5K9qAPJssn0efd+oC6fCaWnsnt53TF/a+/S+1Zk11xVIXYQ==",
+  "dgSpecHash": "fTMxguqPQS3FTSvntrvEUQE8r8vWsq2skpFTfD94bpA/ETm36pLWhhZM2t53J+R50LyAiWgubHwK7snyWeN6aQ==",
   "success": true,
   "projectFilePath": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jradman\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512"
+  ],
   "logs": []
 }

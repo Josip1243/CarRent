@@ -60,3 +60,4 @@ D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\Microsoft.Iden
 D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\ErrorOr.dll

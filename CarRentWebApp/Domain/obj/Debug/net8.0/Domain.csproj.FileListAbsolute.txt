@@ -10,3 +10,4 @@ D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\Domain.dll
 D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\Domain.pdb
 D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
