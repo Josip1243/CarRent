@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZcLsAFay818AqiECF3AWYqnSn4FzolJ4bgp+MC1j9ZoxLhbIxeuFaHsS2gMEYzy++InPYx4gT4YcyfRsB5R5WQ==",
+  "dgSpecHash": "E6NRIsmLyxg7dSMpVay8nmuxMxdaJ1nJFeZIJ34LicTACZcNQukSXiNvS2qktnor3ABOyt/GerWFOXY0uenJbw==",
   "success": true,
   "projectFilePath": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,8 @@
     "C:\\Users\\jradman\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\jradman\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\jradman\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\jradman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\jradman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jradman\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512"
   ],
   "logs": []
 }

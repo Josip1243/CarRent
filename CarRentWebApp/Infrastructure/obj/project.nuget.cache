@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "drRWKzFmHqLI6QaHwsCbhYlitMLgb947K5YtceGkuKVsnVacBIxTVLvMxiS1/hPHUbzVvCFcpzIqUj9hsl1ebA==",
+  "dgSpecHash": "Eg3AzT+XAJj4k2//EyPD9/9G2OoJZ09jRuicyVvnZIM7Vs0m5M5eFbg1+3IuQtcDX8zp4Lh7NYKukfFvgJNqng==",
   "success": true,
   "projectFilePath": "D:\\jradman\\Projects\\CarRent\\CarRentWebApp\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,7 @@
     "C:\\Users\\jradman\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.3.1\\microsoft.identitymodel.jsonwebtokens.7.3.1.nupkg.sha512",
     "C:\\Users\\jradman\\.nuget\\packages\\microsoft.identitymodel.logging\\7.3.1\\microsoft.identitymodel.logging.7.3.1.nupkg.sha512",
     "C:\\Users\\jradman\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.3.1\\microsoft.identitymodel.tokens.7.3.1.nupkg.sha512",
+    "C:\\Users\\jradman\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
     "C:\\Users\\jradman\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
     "C:\\Users\\jradman\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
     "C:\\Users\\jradman\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.3.1\\system.identitymodel.tokens.jwt.7.3.1.nupkg.sha512",

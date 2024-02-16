@@ -1,6 +1,7 @@
 ﻿using Application.Common.Interfaces.Authentication;
 using Application.Common.Persistence;
 using Domain.Entities;
+using Serilog;
 
 namespace Application.Services.Authentication
 {
@@ -20,6 +21,7 @@ namespace Application.Services.Authentication
             // Check if user exists
             if (_userRepository.GetUserByEmail(email) is not null)
             {
+                Log.Error("User with given email already exists!");
                 throw new Exception("User with given email already exists");
             }
 
@@ -37,8 +39,6 @@ namespace Application.Services.Authentication
             };
             _userRepository.Add(user);
 
-            
-
             // Generate JWT token
             var token = _jwtTokenGenerator.GenerateToken(user);
 
@@ -49,11 +49,13 @@ namespace Application.Services.Authentication
         {
             if (_userRepository.GetUserByEmail(email) is not User user)
             {
-                throw new Exception("User with given email does not exists");
+                Log.Error("User with given email does not exist!");
+                throw new Exception("User with given email does not exist");
             }
 
             if (user.Password != password)
             {
+                Log.Error("Invalid credentials!");
                 throw new Exception("Invalid credentials!");
             }
 
