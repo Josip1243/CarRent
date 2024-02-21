@@ -11,7 +11,7 @@ using Serilog;
 namespace Application.Authentication.Queries.Login
 {
     public class LoginQueryHandler
-    : IRequestHandler<RegisterCommand, ErrorOr<AuthenticationResult>>
+    : IRequestHandler<LoginQuery, ErrorOr<AuthenticationResult>>
     {
         private readonly IJwtTokenGenerator _jwtTokenGenerator;
         private readonly IUserRepository _userRepository;
@@ -24,6 +24,8 @@ namespace Application.Authentication.Queries.Login
 
         public async Task<ErrorOr<AuthenticationResult>> Handle(LoginQuery query, CancellationToken cancellationToken)
         {
+            await Task.CompletedTask;
+
             if (_userRepository.GetUserByEmail(query.Email) is not User user)
             {
                 Log.Error("User with given email does not exist!");

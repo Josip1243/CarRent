@@ -61,3 +61,9 @@ D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\System.Identit
 D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\ErrorOr.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\Mapster.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\Mapster.Core.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\jradman\Projects\CarRent\CarRentWebApp\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
