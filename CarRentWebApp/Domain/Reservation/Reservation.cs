@@ -1,12 +1,7 @@
-﻿using Domain.Common.Models;
-using Domain.Reservation.ValueObjects;
-
-namespace Domain.Reservation
+﻿namespace Domain.Reservation
 {
-    public class Reservation : AggregateRoot<ReservationId>
+    public sealed class Reservation
     {
-        public Reservation(ReservationId id) : base(id)
-        {
-        }
+
     }
 }

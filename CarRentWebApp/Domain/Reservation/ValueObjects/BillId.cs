@@ -1,18 +1,17 @@
-﻿using Domain.CarReview.ValueObjects;
+﻿using Domain.Car.ValueObjects;
 using Domain.Common.Models;
 
 namespace Domain.Reservation.ValueObjects
 {
-    public sealed class ReservationId : ValueObject
+    public sealed class BillId : ValueObject
     {
         public Guid Value { get; }
 
-        private ReservationId(Guid value)
+        private BillId(Guid value)
         {
             Value = value;
         }
-
-        public static ReservationId CreateUnique()
+        public static BillId CreateUnique()
         {
             return new(Guid.NewGuid());
         }

@@ -3,7 +3,7 @@ using Application.Authentication.Common;
 using Application.Common.Interfaces.Authentication;
 using Application.Common.Persistence;
 using Domain.Common.Errors;
-using Domain.Entities;
+using Domain.User;
 using ErrorOr;
 using MediatR;
 using Serilog;

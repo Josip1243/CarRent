@@ -1,5 +1,5 @@
 ﻿using Application.Common.Persistence;
-using Domain.Entities;
+using Domain.User;
 
 namespace Infrastructure.Persistence
 {
