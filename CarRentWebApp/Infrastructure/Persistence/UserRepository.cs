@@ -11,7 +11,6 @@ namespace Infrastructure.Persistence
         public void Add(User user)
         {
             _idCounter++;
-            user.Id = _idCounter;
             _users.Add(user);
         }
 

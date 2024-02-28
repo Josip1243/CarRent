@@ -2,7 +2,8 @@
 using Application.Common.Interfaces.Authentication;
 using Application.Common.Persistence;
 using Domain.Common.Errors;
-using Domain.Entities;
+using Domain.User;
+using Domain.User.ValueObjects;
 using ErrorOr;
 using MediatR;
 using Serilog;
@@ -33,17 +34,7 @@ namespace Application.Authentication.Commands.Register
             }
 
             // Create user (with unique ID)
-            Random rnd = new Random();
-            int userId = rnd.Next(1000);
-
-            var user = new User()
-            {
-                Id = userId,
-                FirstName = command.FirstName,
-                LastName = command.LastName,
-                Email = command.Email,
-                Password = command.Password
-            };
+            var user = User.Create(command.FirstName, command.LastName, command.Email, command.Password);
             _userRepository.Add(user);
 
             // Generate JWT token

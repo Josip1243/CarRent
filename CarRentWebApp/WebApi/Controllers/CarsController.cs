@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Contracts.Cars;
+using Microsoft.AspNetCore.Mvc;
 
 namespace WebApi.Controllers
 {
@@ -9,6 +10,12 @@ namespace WebApi.Controllers
         public IActionResult GetAllCars()
         {
             return Ok(new List<string>());
+        }
+
+        [HttpPost]
+        public IActionResult CreateCar(CreateCarRequest request)
+        {
+            return Ok(request);
         }
     }
 }
