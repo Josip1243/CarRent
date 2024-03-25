@@ -11,6 +11,11 @@ namespace Domain.Renter.ValueObjects
             Value = value;
         }
 
+        public static RenterId Create(Guid value)
+        {
+            return new RenterId(value);
+        }
+
         public static RenterId CreateUnique()
         {
             return new(Guid.NewGuid());

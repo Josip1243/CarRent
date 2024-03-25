@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.Extensions.Options;
+using Application.Common.Interfaces.Persistence;
 
 namespace Infrastructure
 {
@@ -15,8 +16,17 @@ namespace Infrastructure
     {
         public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
-            services.AddAuth(configuration);
+            services
+                .AddAuth(configuration)
+                .AddPersistence();
+            
+            return services;
+        }
+
+        public static IServiceCollection AddPersistence(this IServiceCollection services)
+        {
             services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<ICarRepository, CarRepository>();
 
             return services;
         }

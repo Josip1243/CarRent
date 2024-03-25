@@ -1,4 +1,9 @@
 ﻿namespace Contracts.Cars
 {
-    public record CarResponse(string Brand, string Model, DateTime ManufacturedDate);
+    public record CarResponse(
+        Guid Id,
+        string Brand,
+        string Model,
+        DateOnly ManufacturedDate,
+        Guid OwnerId);
 }

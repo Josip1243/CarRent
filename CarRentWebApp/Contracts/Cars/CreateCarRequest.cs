@@ -1,4 +1,4 @@
 ﻿namespace Contracts.Cars
 {
-    public record CreateCarRequest(string Brand, string Model, DateTime ManufacturedDate);
+    public record CreateCarRequest(string Brand, string Model, DateOnly ManufacturedDate);
 }

@@ -11,6 +11,11 @@ namespace Domain.Owner.ValueObjects
             Value = value;
         }
 
+        public static OwnerId Create(Guid value)
+        {
+            return new OwnerId(value);
+        }
+
         public static OwnerId CreateUnique()
         {
             return new(Guid.NewGuid());
